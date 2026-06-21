@@ -1,2 +1,5 @@
-print("no other option but i have to make it")
-print("Kenya ,n wantam")
+a=5
+b=-3
+c=(a-b)
+print(type(a))
+print(c)
