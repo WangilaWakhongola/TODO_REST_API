@@ -1,8 +1,8 @@
-# 📝 Python TODO REST API
+#  Python TODO REST API
 
 Simple REST API for managing todos with full CRUD operations.
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 # 1. Create virtual environment
@@ -29,7 +29,7 @@ Server starts at: `http://localhost:3000`
 | PATCH | `/todos/{id}` | Update todo |
 | DELETE | `/todos/{id}` | Delete todo |
 
-## 📝 Examples
+##  Examples
 
 **Create a Todo:**
 ```bash
@@ -62,7 +62,7 @@ curl -X DELETE http://localhost:3000/todos/{id}
 - UUID for IDs
 - In-memory storage
 
-## 💡 To Add Database
+##  To Add Database
 
 Replace the `todos` dictionary in `app.py` with:
 - SQLite + SQLAlchemy
@@ -71,4 +71,4 @@ Replace the `todos` dictionary in `app.py` with:
 
 ---
 
-Happy Coding! 🚀
+Happy Coding! 
