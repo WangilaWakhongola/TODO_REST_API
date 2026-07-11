@@ -6,7 +6,7 @@ Simple REST API for managing todos with full CRUD operations.
 
 ```bash
 # 1. Create virtual environment
-python3 -m venv venv
+python3 -m venv 
 source venv/bin/activate  # Windows: venv\Scripts\activate
 
 # 2. Install dependencies
